@@ -1,0 +1,12 @@
+/* This is a comment in a CSS file! 
+    The code editor doesnt care about comments, just for user readability 
+    Presentation of the content should be defined in CSS file
+    Learn more about CSS @ https://www.w3schools.com/css/default.asp  */
+
+h1 {
+    color: whitesmoke
+}
+
+body {
+    background-color: violet
+}
