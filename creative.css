@@ -4,9 +4,21 @@
     Learn more about CSS @ https://www.w3schools.com/css/default.asp  */
 
 h1 {
-    color: whitesmoke
+    color: whitesmoke;
+    text-align: center;
+}
+
+p {
+    text-align: center;
 }
 
 body {
     background-color: violet
+}
+
+#earrings {
+    width:10cm;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
